@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\bin\Debug\NasaProject.exe.config
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\bin\Debug\NasaProject.exe
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\bin\Debug\NasaProject.pdb
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\obj\Debug\NasaProject.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\obj\Debug\NasaProject.IndexForm.resources
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\obj\Debug\NasaProject.Properties.Resources.resources
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\obj\Debug\NasaProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\obj\Debug\NasaProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\obj\Debug\NasaProject.exe
+C:\Users\ASUS\Desktop\NasaProject\NasaProject\obj\Debug\NasaProject.pdb
+D:\NasaProject\NasaProject\obj\Debug\NasaProject.csprojAssemblyReference.cache
+D:\NasaProject\NasaProject\obj\Debug\NasaProject.exe
+D:\NasaProject\NasaProject\obj\Debug\NasaProject.pdb
